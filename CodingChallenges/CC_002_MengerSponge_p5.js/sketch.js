@@ -4,7 +4,6 @@
 // Code for this video: https://youtu.be/LG8ZK-rRkXo
 
 var a = 0;
-
 var sponge = [];
 
 function setup() {
